@@ -3,9 +3,9 @@ import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import Navbar from "@/components/Layout/Navbar";
 import Footer from "@/components/Layout/Footer";
-import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
+import { Card } from "@/components/UI/card";
+import { Badge } from "@/components/UI/badge";
+import { Button } from "@/components/UI/button";
 import { Droplets, CheckCircle, AlertTriangle } from "lucide-react";
 import { mockPlants } from "@/data/mockPlants";
 

@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { Search, Filter } from "lucide-react";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
+import { Input } from "@/components/UI/input";
+import { Button } from "@/components/UI/button";
+import { Badge } from "@/components/UI/badge";
 
 interface SearchBarProps {
   onSearch: (query: string) => void;

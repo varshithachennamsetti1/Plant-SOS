@@ -3,8 +3,8 @@ import Navbar from "@/components/Layout/Navbar";
 import Footer from "@/components/Layout/Footer";
 import PlantCard from "@/components/Plants/PlantCard";
 import SearchBar from "@/components/UI/SearchBar";
-import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { Card } from "@/components/UI/card";
+import { Badge } from "@/components/UI/badge";
 
 const Encyclopedia = () => {
   const [searchQuery, setSearchQuery] = useState("");

@@ -1,6 +1,6 @@
-import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
+import { Card } from "@/components/UI/card";
+import { Badge } from "@/components/UI/badge";
+import { Button } from "@/components/UI/button";
 import { Droplets, Sun, Thermometer, Calendar } from "lucide-react";
 
 export interface Plant {

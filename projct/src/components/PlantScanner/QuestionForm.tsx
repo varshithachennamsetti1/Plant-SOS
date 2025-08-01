@@ -1,10 +1,10 @@
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
-import { Label } from "@/components/ui/label";
-import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
+import { Button } from "@/components/UI/button";
+import { Card } from "@/components/UI/card";
+import { Label } from "@/components/UI/label";
+import { RadioGroup, RadioGroupItem } from "@/components/UI/radio-group";
+import { Input } from "@/components/UI/input";
+import { Textarea } from "@/components/UI/textarea";
 
 interface PlantQuestions {
   age: string;

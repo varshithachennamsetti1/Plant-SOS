@@ -1,6 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { Leaf, Camera, Calendar, BookOpen, Search } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/UI/button";
 
 const Navbar = () => {
   const location = useLocation();

@@ -14,7 +14,7 @@ const Encyclopedia = () => {
   useEffect(() => {
     const fetchPlants = async () => {
       try {
-        const response = await fetch("http://localhost:5000/plants");
+        const response = await fetch("https://plant-sos.onrender.com/plants");
         if (!response.ok) {
           throw new Error("Failed to fetch plants");
         }

@@ -39,5 +39,25 @@ Plant SOS is a full-stack web application that helps users detect plant diseases
 
 ---
 
-## 🗂️ Project Structure
+# 🌱 Plant SOS
+
+**Plant SOS** is a smart plant watering reminder app designed to help users take better care of their plants by sending timely water reminders. With a user-friendly interface, Plant SOS lets you scan your plant, register it, and receive reminders based on the plant type and watering frequency.
+
+## 📝 Problem Statement
+
+Many people love plants but often forget to water them regularly due to busy schedules. This results in unhealthy or dead plants. **Plant SOS** solves this by providing intelligent watering reminders and plant care suggestions, ensuring your greens thrive effortlessly.
+
+## 🚀 Features
+
+- 📸 **Plant Scanner:** Scan your plant to register and recognize it.
+- 🪴 **Add Plant Details:** Add name, type, watering schedule (daily/weekly).
+- ⏰ **Smart Reminders:** Get automated watering notifications based on plant type.
+- 📅 **Dashboard:** See upcoming watering schedules at a glance.
+- 📦 **Offline Support:** Store plant data locally using browser storage.
+- 🧠 **Simple UI:** Clean, responsive interface made with React and TailwindCSS.
+- 🔐 **Optional Login:** (Future scope) Add user accounts to sync data across devices.
+
+
+
+
 
